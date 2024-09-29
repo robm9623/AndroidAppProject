@@ -47,3 +47,5 @@ iii.	Add/Remove courses
 iv.	Add/Remove assignments
 v.	Settings
 b.	Since Saint Leo only allows a student to take two courses at once online, there will be only two main categories for courses.
+
+WireFrames 
