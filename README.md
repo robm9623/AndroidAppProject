@@ -49,3 +49,4 @@ v.	Settings
 b.	Since Saint Leo only allows a student to take two courses at once online, there will be only two main categories for courses.
 
 WireFrames 
+https://github.com/robm9623/AndroidAppProject/blob/Code/Wireframes.pdf
