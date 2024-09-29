@@ -3,9 +3,12 @@ Homework Reminder Application
 Robert Morales
 
 Changes:
-09/05/2024 Outline Created
-09/19/2024 Wireframes Created
-09/26/2024 Application is in coding stages
+09/05/2024 Version 1.1 Outline Created
+09/19/2024 Version 1.2Wireframes Created
+09/26/2024 Version 1.3 Application is in coding stages
+Future Changes:
+10/02/24: Version 2.1 Application is fully coded
+10/09/24: Version 2.2 Application is tested and debugging is completed if neccessary
 
 Index
 •	Project Description
