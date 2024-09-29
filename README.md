@@ -4,6 +4,8 @@ Robert Morales
 
 Changes:
 09/05/2024 Outline Created
+09/19/2024 Wireframes Created
+09/26/2024 Application is in coding stages
 
 Index
 •	Project Description
