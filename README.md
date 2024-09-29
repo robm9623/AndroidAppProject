@@ -3,7 +3,18 @@ Homework Reminder Application
 Robert Morales
 
 Changes:
-09/05/2024 Outline Created
+09/05/2024 Version 1.1 Outline Created
+09/19/2024 Version 1.2Wireframes Created
+09/26/2024 Version 1.3 Application is in coding stages 
+  MainActivity.kt is completed
+  Activity_main.xml is completed
+  dialog_add_homework.xml is completed
+  
+Future Changes:
+10/02/24: Version 2.1 Application is fully coded
+  item_homework.xml is being worked on
+  HomeworkAdapter.kt is being worked on
+10/09/24: Version 2.2 Application is tested and debugging is completed if neccessary
 
 Index
 •	Project Description
@@ -45,3 +56,6 @@ iii.	Add/Remove courses
 iv.	Add/Remove assignments
 v.	Settings
 b.	Since Saint Leo only allows a student to take two courses at once online, there will be only two main categories for courses.
+
+WireFrames 
+https://github.com/robm9623/AndroidAppProject/blob/Code/Wireframes.pdf
