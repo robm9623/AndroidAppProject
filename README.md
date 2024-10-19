@@ -1,20 +1,18 @@
 Android Application Project:
-Homework Reminder Application
+Homework RemindMe Application
 Robert Morales
 
 Changes:
 09/05/2024 Version 1.1 Outline Created
 09/19/2024 Version 1.2Wireframes Created
 09/26/2024 Version 1.3 Application is in coding stages 
-  MainActivity.kt is completed
-  Activity_main.xml is completed
-  dialog_add_homework.xml is completed
-  
-Future Changes:
-10/02/24: Version 2.1 Application is fully coded
-  item_homework.xml is being worked on
-  HomeworkAdapter.kt is being worked on
-10/09/24: Version 2.2 Application is tested and debugging is completed if neccessary
+10/06/2024 Version 1.4 Application is being tested
+10/13/2024 Version 1.5 Application errors are being corrected after testing
+10/19/2024 Version 1.6 Final touches for first realease of the applicatino.
+
+Future Changes/Future Versions:
+2.1 Different tabs for various courses
+2.2 Integration with Saint Leo LMS
 
 Index
 •	Project Description
